@@ -15,4 +15,6 @@ public class Test2 {
     
     System.out.println("Testig from github");
     
+    System.out.println("showing the pull operation");
+    
 }
